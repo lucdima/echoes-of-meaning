@@ -1,0 +1,8 @@
+# macOS system file
+.DS_Store
+
+# JetBrains IDEs (e.g., WebStorm, IntelliJ)
+.idea/
+
+# Node modules (if you ever add npm dependencies)
+node_modules/

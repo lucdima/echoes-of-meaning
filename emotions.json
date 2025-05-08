@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "order": {
+      "label": "social order",
+      "color": "#F4004C",
+      "words": [
+        "confronted", "emotionen", "relieved", "happy", "at ease", "satisfying", "relief", "strength", "capable",
+        "overcome", "journey", "immense relief", "calm", "grateful"
+      ]
+    },
+    "unease": {
+      "label": "unease / questioning",
+      "color": "#FF69B4",
+      "words": [
+        "worried", "unpleasant", "fear", "scared", "concerned", "shocked", "anxious", "frightened",
+        "intimidated", "doubtful", "buzzing", "hectic", "uncontrolled", "loud",
+        "agitated", "distrust", "tensed", "insecurity", "overwhelmed"
+      ]
+    },
+    "transformation": {
+      "label": "resistance / transformation",
+      "color": "#9B5DE5",
+      "words": [
+        "angry", "annoyed", "control", "important", "useless", "self-critical", "challenging",
+        "complex", "creative", "sly", "scares"
+      ]
+    },
+    "wonder": {
+      "label": "amazement / fascination",
+      "color": "#52B788",
+      "words": [
+        "fascinated", "interesting", "impressed", "excited", "surprise", "curious", "moved",
+        "amazed", "fun", "beautiful", "astonished", "enthusiastic","delighted"
+      ]
+    }
+  }
+}
